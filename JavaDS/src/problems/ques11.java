@@ -9,6 +9,7 @@ public class ques11 {
     public static void main(String[] args) {
         int[] array1 = {1,2,3,4,5};
         int[] array2 ={6,7,8,9,10};
+
         int[] merged = IntStream.concat(Arrays.stream(array1),Arrays.stream(array2)).toArray();
         System.out.println("Merged Array : "+Arrays.toString(merged));
         int result = median(merged);
