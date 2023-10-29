@@ -1,4 +1,4 @@
-package file;
+package inputOutput;
 
 import java.io.BufferedReader;
 import java.io.IOException;
