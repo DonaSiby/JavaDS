@@ -1,4 +1,4 @@
-//Find the maximum area of the triangle whose base and height are given and round off the answer to 1 decimal point.
+package problems;//Find the maximum area of the triangle whose base and height are given and round off the answer to 1 decimal point.
 
 public class ques1 {
     public static void main(String[] args) {

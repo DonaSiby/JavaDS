@@ -1,3 +1,5 @@
+package problems;
+
 public class swaperror {
     public static void main(String[] args) {
         int a = 10;

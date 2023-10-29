@@ -1,3 +1,5 @@
+package problems;
+
 public class b {
     public static void main(String[] args) {
         String string1 = "abcdefg";

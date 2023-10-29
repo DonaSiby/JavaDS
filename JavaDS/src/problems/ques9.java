@@ -1,3 +1,5 @@
+package problems;
+
 //Given a string sl and a string s2, write a function to
 //check whether s2 is a rotation of sl.
 public class ques9 {
