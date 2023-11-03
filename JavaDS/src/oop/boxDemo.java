@@ -7,7 +7,6 @@ class Box {
     return width*height*depth;
   }
 }
-
 public class boxDemo {
   public static void main(String[] args) {
     Box box1 = new Box();
